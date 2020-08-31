@@ -1,0 +1,1 @@
+A restaurant website developed using Html, Css, and Javascript. It is responsive, and dynamic as the data is fetched from heroku app as it's hosted there using Ajax.
